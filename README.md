@@ -17,4 +17,4 @@ A responsive Food Delivery App built with React.js, allowing users to browse foo
 - **CSS:** Styling components and ensuring responsiveness.
 - **Axios:** HTTP requests to fetch data from the API.
 - **React Router:** Navigation handling within the app.
-- **React Context API:** State management and data passing across components.
+- **React Context API:** State management and data passing across components.   
