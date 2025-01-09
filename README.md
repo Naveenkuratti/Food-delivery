@@ -1,7 +1,7 @@
 # React + Vite Food Delivery App      
                                                                                                                       
-**Link:** [View App](https://main--fooddel123.netlify.app/)   
- 
+**Link:** [View App](https://main--fooddel123.netlify.app/)                                                                                                                                                                 
+   
 **Description:**  
 A responsive Food Delivery App built with React.js, allowing users to browse food items, add them to the cart, and place orders. The app fetches data from an API to display available food items and manages user interactions seamlessly.
 
