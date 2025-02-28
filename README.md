@@ -5,7 +5,7 @@
 **Description:**  
 A responsive Food Delivery App built with React.js, allowing users to browse food items, add them to the cart, and place orders. The app fetches data from an API to display available food items and manages user interactions seamlessly.
 
-**Features:**                                                
+**Features:**                                                    
 - **Browse Food Items:** View a list of food items with detailed descriptions and prices.                                                    
 - **Search Functionality:** Search for specific food items using keywords.
 - **Add to Cart:** Add favorite food items to the cart.
